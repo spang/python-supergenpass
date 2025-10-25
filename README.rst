@@ -21,7 +21,7 @@ additional features:
 Installation
 =============
 
-Setup is handled by ``distutils``. To install the module and interface, do::
+Setup is handled by ``setuptools``. To install the module and interface, do::
 
     python setup.py install
 
